@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @k-vijayakumar
+- 👋 Hi, I’m @vijayakumark3
 - 👀 I’m interested in web development
 - 📈 I learned intermediate in HTML, CSS
 - 🌱 I’m currently learning javascript
