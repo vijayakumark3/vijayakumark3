@@ -2,7 +2,6 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to co-learner
-- 📫 Reach me on LinkedIn @vijayakumar3
 - 🚶🏽‍♂️ Introvert, Nerd, Night Owl, Explorer
 <!---
 vijayakumark3/vijayakumark3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
