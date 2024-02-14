@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vijayakumark3
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development and coding/programming in general
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to co-learner
 <!---
